@@ -1,0 +1,10 @@
+int32 id
+float64 position
+float64 velocity
+float64 torque
+float64 q_current
+float64 d_current
+bool rezero_state
+float64 voltage
+float64 temperature
+int32 fault

@@ -1,0 +1,9 @@
+int32 id
+float64 position
+float64 velocity
+float64 feedforward_torque
+float64 kp_scale
+float64 kd_scale
+float64 maximum_torque
+float64 stop_position
+float64 watchdog_timeout
